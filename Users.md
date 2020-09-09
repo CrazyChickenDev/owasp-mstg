@@ -13,7 +13,8 @@ Currently the MASVS and MSTG are used by at least the following companies:
 - [Cyber Ninjas](https://www.CyberNinjas.com "Cyber Ninjas")
 - [ESCRYPT GmbH](https://www.escrypt.com "ESCRYPT GmbH")
 - [FH Münster - University of applied sciences](https://www.fh-muenster.de "FH Münster - University of applied sciences")
-- [Genexus](https://www.genexus.com "Genexus") & [Genexus Consulting](https://www.genexusconsulting.com/es/ "Genexus Consulting")
+- [Genexus](https://www.genexus.com "Genexus") &
+  [Genexus Consulting](https://www.genexusconsulting.com/es/ "Genexus Consulting")
 - [Hackenproof](https://hackenproof.com "Hackenproof")
 - [Infosec](https://Infosec.com.br "Infosec")
 - [Lucideus Inc.](https://www.lucideus.com "Lucideus Inc.")
@@ -23,18 +24,20 @@ Currently the MASVS and MSTG are used by at least the following companies:
 - [Randorisec](https://randorisec.fr/ "Randorisec")
 - [Secarma](https://www.secarma.com/ "Secarma")
 - [SecuRing](https://securing.biz/ "SecuRing")
-- [Stingray Technologies](https://stingray.appsec.global/  "Stingray Technologies")
+- [Stingray Technologies](https://stingray.appsec.global/ "Stingray Technologies")
 - [STM Solutions](https://stmsolutions.pl/ "STM Solutions")
 - [Toreon](https://www.toreon.com/ "Toreon")
 - [VantagePoint](https://www.vantagepoint.sg "VantagePoint")
 - [Vertical Structure](https://www.verticalstructure.com "Vertical Structure Ltd")
 - [Xebia](https://xebia.com "Xebia")
 
-> Note: the quality of the application of the MASVS/MSTG by these companies has not been vetted by the MSTG team. It is just an indicator of adoption reported publicly.
+> Note: the quality of the application of the MASVS/MSTG by these companies has
+> not been vetted by the MSTG team. It is just an indicator of adoption reported
+> publicly.
 
 ## Standards, frameworks and guidelines recommending the MASVS and MSTG
 
- Currently, the MASVS and MSTG are recommended by:
+Currently, the MASVS and MSTG are recommended by:
 
 - [Egov standards for India](http://egovstandards.gov.in/notified-standards-0 "Egov standards for India")
 - [Finish Transport and Communication Agency (TRAFICOM) - Assessment guideline for electronic identification services (Draft)](https://www.traficom.fi/sites/default/files/media/file/DRAFT%20Traficom%20guideline%20211%202019%20conformity%20assessment%20of%20eID%20service.pdf "Finish Transport and Communication Agency (TRAFICOM)")
@@ -51,4 +54,8 @@ Currently the MASVS and MSTG are used by at least the following companies:
 
 ## Call for Users
 
-Are you actively using the MASVS or MSTG and want to be listed here? File an [issue on GitHub](https://github.com/OWASP/owasp-mstg/issues/new "New Issue"), contact Sven Schleier (Slack: *Sven*) or Carlos Holguera (Slack: *Carlos*), or send an email to [Sven](mailto:sven.schleier@owasp.org) or [Carlos](mailto:carlos.holguera@owasp.org).
+Are you actively using the MASVS or MSTG and want to be listed here? File an
+[issue on GitHub](https://github.com/OWASP/owasp-mstg/issues/new "New Issue"),
+contact Sven Schleier (Slack: _Sven_) or Carlos Holguera (Slack: _Carlos_), or
+send an email to [Sven](mailto:sven.schleier@owasp.org) or
+[Carlos](mailto:carlos.holguera@owasp.org).
